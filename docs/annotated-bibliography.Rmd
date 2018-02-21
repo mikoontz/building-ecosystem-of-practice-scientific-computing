@@ -1,0 +1,83 @@
+---
+title: "Annotated bibliography for building an ecosystem of practice in scientific computing"
+author: "Michael Koontz"
+output: pdf_document
+
+bibliography: "../docs_carpentry/building-ecosystem-of-practice-scientific-computing.bib"
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/ecology.csl
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, results = "hide")
+```
+
+```{r get_references}
+download.file("https://dl.dropboxusercontent.com/s/5totmbtfh5zrwpk/building-ecosystem-of-practice-scientific-computing.bib", "../docs_carpentry/building-ecosystem-of-practice-scientific-computing.bib")
+```
+
+# Overview
+
+### @Baker2017. Code alert
+
+Scientific computing is a critical skill for ecologists.
+
+# Scientific computing benefits science
+
+### @Pevzner2009. Computing has changed biology — biology education must catch up
+
+## Needed for reproducibility
+
+### @Lowndes2017
+
+## Needed for next generation ecology 
+
+### @White2015. The next generation of action ecology: Novel approaches towards global ecological research
+
+Action ecology, macroscale questions
+
+### @Hampton2015. The Tao of open science for ecology
+
+Open science. 
+
+### @Poisot2016a. Synthetic datasets and community tools for the rapid testing of ecological hypotheses
+
+Macroscale questions.
+
+## Needed for quantitative analyses
+
+### @Barraquand2014. Lack of quantitative training among early-career ecologists: A survey of the problem and potential solutions
+
+### @Touchon2016. The mismatch between current statistical practice and doctoral training in ecology
+
+# We need to build an ecosystem of practice for scientific computing
+
+The use of these skills should be normalized amongst ecologists at UC Davis, and the training required to progress ecologists from scientific computing novices to beginners to competent practitioners should be supported. This will require sustainable buy-in from the  
+
+### @Hannay2009. How do scientists develop and use scientific software?
+
+Scientific computing skills are largely self-taught.
+
+### @Stevens2018
+
+# The Carpentry model offers a way forward
+
+### @Freeman2014. Active learning increases student performance in science, engineering, and mathematics.
+
+### @Wilson2014b. Software Carpentry: Lessons learned
+
+### @Wilson2014a. Best practices for scientific computing
+
+### @Wilson2017a. Good enough practices in scientific computing
+
+### @Teal2015. Data Carpentry: Workshops to increase data literacy for researchers
+
+# The ecosystem we build will have concomitant benefits
+
+### @Hampton2017: Careers in ecology 
+
+We need broader training in our PhD. We need teaching training in our PhD.
+
+
+
+## References
